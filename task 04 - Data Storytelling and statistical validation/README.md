@@ -113,26 +113,6 @@ The statistical analysis indicates that the difference in average sales between 
 * Continue monitoring KPIs through interactive dashboards.
 * Validate important business observations using statistical analysis before making strategic decisions.
 
----
-
-# 📁 Project Structure
-
-```text
-task 04 - Data Storytelling and Statistical Validation/
-
-│
-├── notebook/
-│   └── Task_04_Data_Storytelling_and_Statistical_Validation.ipynb
-│
-├── dataset/
-│   └── cleaned_ecommerce_data.csv
-│
-├── images/
-│
-├── presentation/
-│
-└── README.md
-```
 
 ---
 
